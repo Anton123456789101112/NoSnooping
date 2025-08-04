@@ -22,11 +22,14 @@ So,
 1. Run the program once and terminate it with the secret code (3 + h + F5).
 2. Open the task manager and head to the autostart page.
 3. Activate the listed program named NoSnooping.exe.
-4. 
+
+
 This will make Windows think you trust it and the autostart
 function will work without you having to do anything.
 The included metadata in the .rc and .res files does not help this case,
 even though that is what they are for.
+
+If any problems occur, just give it admin. 
 
 
 
